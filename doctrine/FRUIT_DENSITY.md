@@ -79,6 +79,49 @@ SMALL GAME
 
 Armor Command grew because the small game kept granting permission.
 
+## Through the Slit: fruit variety versus purity
+
+Chronologically, Through the Slit is the useful next specimen. It takes the same appetite for immediate consequence much farther, but in a different direction.
+
+The current game asks the player to drive two treads independently, present the body to enemy fire, ram usable roads through prepared defenses, keep an eighteen-body war party connected, break defense echelons, gather nutrients, choose among nineteen run-local grafts, and participate in a separate inheritance/correction system. The weapons largely fire themselves when valid threats enter their arcs, so steering and body orientation become combat verbs.
+
+This is not empty scope. Many of the added systems are causal and mutually consequential. The game is therefore not a clean example of fruit density collapsing under size.
+
+But Drew reports that it feels **cooler and less pure** than Armor Command. That suggests a second axis:
+
+```text
+FRUIT DENSITY = how much meaningful consequence exists per unit burden
+PURITY = how much of the game's identity can be explained by one central causal sentence
+```
+
+Armor Command has unusually high purity. Most of its additions elaborate the same sentence: choose contact in the sky, receive a consequence, adapt under pressure.
+
+Through the Slit has greater fruit variety. Its central act branches into several interacting obligations: locomotion, armor presentation, breaching, formation custody, battlefield persistence, graft progression, and inheritance. Each may be good, but no single one fully explains the whole artifact.
+
+A useful informal test is the **and-count**:
+
+```text
+How many independent "and then also..." clauses are needed to explain why the game is interesting?
+```
+
+This is not a quality score. Some works deliberately seek ecology rather than purity. Through the Slit may be stronger as a world, spectacle, or systems organism precisely because multiple causal loops coexist.
+
+The contrast is therefore not:
+
+```text
+Armor Command = good
+Through the Slit = bad
+```
+
+It is closer to:
+
+```text
+Armor Command = concentrated fruit / high purity
+Through the Slit = diversified fruit / lower purity / higher expressive breadth
+```
+
+The archaeological question is whether each added loop deepens the same felt thesis or creates a second thesis that now competes for player attention.
+
 ## Expansion permission test
 
 A proposed addition should answer at least one of these questions:
@@ -128,6 +171,8 @@ A mature engine should therefore increase **fruit per unit labor**, not merely t
 
 Armor Command adds a second requirement: the engine should also make *earned expansion* cheap, so a tiny artifact can grow when reality demonstrates that the next layer is fruitful rather than because a roadmap demands it.
 
+Through the Slit adds a third: the engine should make it cheap to test whether an additional causal loop is actually harmonizing with the central thesis or merely increasing expressive breadth. Breadth is allowed, but it should be chosen knowingly rather than mistaken for automatic improvement.
+
 ## Compact doctrine
 
 > **The perfect game may be smaller than the work required to explain why it is enough.**
@@ -135,3 +180,5 @@ Armor Command adds a second requirement: the engine should also make *earned exp
 > **Do not spend ninety percent of the labor manufacturing distance between contact and consequence.**
 
 > **Expansion is allowed when the existing game asks for it through play.**
+
+> **A game can become cooler by adding more kinds of fruit while becoming less pure. That is a trade, not automatically a failure.**
