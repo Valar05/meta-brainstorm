@@ -122,6 +122,46 @@ Through the Slit = diversified fruit / lower purity / higher expressive breadth
 
 The archaeological question is whether each added loop deepens the same felt thesis or creates a second thesis that now competes for player attention.
 
+## Last Convoy and Marrow Runner: whose fruit counts?
+
+The earlier lineage exposes another axis that fruit density by itself does not capture.
+
+Last Convoy is a strongly compressed specimen. The source-backed mechanic is essentially a snake-style convoy: the player leaves a position trail, picked-up vehicles become role-specific convoy segments, and those segments carry useful capabilities such as projectile fire or flamethrower pressure. Losing a middle segment repairs the follower chain rather than invalidating the whole run. Drew reports that, from his own value perspective, this game is **far more fun** than Marrow Runner.
+
+Marrow Runner is also compact in origin, but its provenance is different. Drew reports that it was created in one prompt from the Thunder Brainstorm process for someone else while they were in the hospital, because that person liked Pac-Man. The later standalone project grew into an immune-cell maze chase with ghost-style enemy archetypes, Pseudopod Ram, chain reactions, complement suction, infection nests, and procedural tissue mazes.
+
+That means the two projects should not be ranked on one creator-centric fun axis.
+
+```text
+CREATOR DELIGHT != RECIPIENT VALUE
+```
+
+Last Convoy can be the stronger game *for Drew* while Marrow Runner can still be a successful creative act because its target was another person's taste and circumstance.
+
+This suggests a broader value model:
+
+```text
+ARTIFACT VALUE
+= fruit density
+× audience fit
+× purpose fit
+```
+
+Again, this is a conceptual lens, not a calibrated equation.
+
+The important consequence is that a Good House should not learn only "what does Drew want to play?" It should also be able to answer:
+
+```text
+Who is this for?
+What do they enjoy?
+What situation are they in?
+What is the smallest artifact that can serve that purpose well?
+```
+
+Marrow Runner is therefore especially important to the capability-commons thesis. Low-friction creation does not merely let Drew make more things for himself. It lowers the cost of making **specific things for specific people**.
+
+That is a different kind of abundance: creativity as a gift can become cheap enough to be ordinary.
+
 ## Expansion permission test
 
 A proposed addition should answer at least one of these questions:
@@ -173,6 +213,8 @@ Armor Command adds a second requirement: the engine should also make *earned exp
 
 Through the Slit adds a third: the engine should make it cheap to test whether an additional causal loop is actually harmonizing with the central thesis or merely increasing expressive breadth. Breadth is allowed, but it should be chosen knowingly rather than mistaken for automatic improvement.
 
+Marrow Runner adds a fourth: the engine should make it cheap to redirect accumulated capability toward another person's taste without requiring the recipient to become a developer or the maker to undertake a production campaign.
+
 ## Compact doctrine
 
 > **The perfect game may be smaller than the work required to explain why it is enough.**
@@ -182,3 +224,5 @@ Through the Slit adds a third: the engine should make it cheap to test whether a
 > **Expansion is allowed when the existing game asks for it through play.**
 
 > **A game can become cooler by adding more kinds of fruit while becoming less pure. That is a trade, not automatically a failure.**
+
+> **Fruit is recipient-relative. The best artifact is not always the one its maker most wants to play.**
